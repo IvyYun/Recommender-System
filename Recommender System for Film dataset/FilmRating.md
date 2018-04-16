@@ -382,7 +382,7 @@ plt.xlabel("Recall Score")
 
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images1/output_31_1.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_31_1.png" /></p>
 
 
 
@@ -402,7 +402,7 @@ plt.show()
 ```
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images1/output_33_0.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_33_0.png" /></p>
 
 
 
