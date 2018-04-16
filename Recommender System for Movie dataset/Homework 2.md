@@ -82,9 +82,8 @@ plt.xlabel("Number of item rated times")
 plt.ylabel("Log Number of items with that number of ratings")
 plt.show()
 ```
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_13_0.png" /></p>
 
-
-![png](output_13_0.png)
 
 
 Group by user and count to get user rating distribution
