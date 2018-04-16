@@ -1,5 +1,5 @@
 
-# Homework 2
+# Compare ItemBased and UserBased knn algorithms on the "ml-100k" data set.
 ### Step 1 Import libraries
 Import standard tools
 
