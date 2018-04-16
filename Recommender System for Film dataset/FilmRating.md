@@ -82,7 +82,7 @@ plt.xlabel("Number of item rated times")
 plt.ylabel("Log Number of items with that number of ratings")
 plt.show()
 ```
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_13_0.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_13_0.png" /></p>
 
 
 
@@ -107,7 +107,7 @@ plt.show()
 ```
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_17_0.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_17_0.png" /></p>
 
 
 Plot distribution of ratings
@@ -132,8 +132,7 @@ plt.show()
 ```
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_20_0.png" /></p>
-
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_20_0.png" /></p>
 
 ### Step 4 Compare algorithms RMSE
 Use three algorithms
@@ -254,7 +253,7 @@ plt.xlabel("RMSE Scores")
 plt.show()
 ```
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_25_0.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_25_0.png" /></p>
 
 
 ### Step 5 Compare algorithms precall, precision
@@ -358,7 +357,7 @@ plt.xlabel("Precision Value")
 
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_29_1.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Film%20dataset/Images1/output_29_1.png" /></p>
 
 
 
@@ -383,7 +382,7 @@ plt.xlabel("Recall Score")
 
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_31_1.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images1/output_31_1.png" /></p>
 
 
 
@@ -403,7 +402,7 @@ plt.show()
 ```
 
 
-<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_33_0.png" /></p>
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images1/output_33_0.png" /></p>
 
 
 
