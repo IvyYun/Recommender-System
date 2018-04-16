@@ -119,79 +119,7 @@ Plot distribution of ratings
 #pd.DataFrame(df.rating.value_counts().reset_index(),columns=['rating','rating_count'])
 d = (df.rating.value_counts().reset_index())
 d.columns = ['rating','rating_count']
-d
 ```
-
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>rating</th>
-      <th>rating_count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>4.0</td>
-      <td>9171</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>3.0</td>
-      <td>7877</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>3.5</td>
-      <td>7142</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>2.5</td>
-      <td>4392</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>2.0</td>
-      <td>3113</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>1.5</td>
-      <td>1601</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>1.0</td>
-      <td>1141</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>0.5</td>
-      <td>1060</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 
 
 
