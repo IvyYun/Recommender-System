@@ -107,7 +107,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_17_0.png" /></p>
 
 
 Plot distribution of ratings
@@ -204,7 +204,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_20_0.png" /></p>
 
 
 ### Step 4 Compare algorithms RMSE
@@ -326,8 +326,7 @@ plt.xlabel("RMSE Scores")
 plt.show()
 ```
 
-
-![png](output_25_0.png)
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_25_0.png" /></p>
 
 
 ### Step 5 Compare algorithms precall, precision
@@ -431,8 +430,8 @@ plt.xlabel("Precision Value")
 
 
 
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_29_1.png" /></p>
 
-![png](output_29_1.png)
 
 
 Boxplot of the recall values
@@ -456,8 +455,8 @@ plt.xlabel("Recall Score")
 
 
 
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_31_1.png" /></p>
 
-![png](output_31_1.png)
 
 
 Scatter plot of precision (y) vs recall (x). Include legend. See example below.
@@ -476,13 +475,13 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+<p align="center"><img width="50%" src="https://github.com/IvyYun/Recommender-System/blob/master/Recommender%20System%20for%20Movie%20dataset/Images/output_33_0.png" /></p>
 
 
-![pr-scatter.png](attachment:pr-scatter.png)
+
 
 # Test Code
-Do not modify. Use this to test your code.
+Use this to test code.
 
 Imports
 
